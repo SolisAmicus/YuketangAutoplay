@@ -1,4 +1,4 @@
-[项目介绍🚩]()
+[项目介绍🚩](https://solisamicus.github.io/toy-project/YuketangAutoplay/)
 ## 使用方法
 
 修改`config.ini`相关字段包括：
