@@ -3,7 +3,7 @@
 
 修改`config.ini`相关字段包括：
 
-- `university_id`：
+- `university_id`
 - `classroom_id`
 - `sign`
 - `cookie`
